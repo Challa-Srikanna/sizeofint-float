@@ -1,0 +1,12 @@
+#include<iostream>
+#include<conio.h>
+
+using namespace std;
+
+int main(){
+    cout<<"size of char is: 1byte"<<endl;
+    cout<<"size of int is: 4byte"<<endl;
+    cout<<"size of float is: 4byte"<<endl;
+    cout<<"size of double is: 8byte"<<endl;
+    return 0;
+}
